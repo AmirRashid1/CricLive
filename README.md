@@ -1,8 +1,8 @@
 # CricLive using React Native (expo)
-Criclive is a cricket live scorer app that updates real time scrore 
+ Criclive is a cricket live scorer app that updates real time scrore 
 # Technology used:
-  . React Native (expo)
-  . tailwindcss
+  - React Native (expo)
+  - tailwindcss
 
 # Packages used:
   - @react-native-async-storage/async-storage
