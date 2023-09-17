@@ -5,15 +5,15 @@ Criclive is a cricket live scorer app that updates real time scrore
   . tailwindcss
 
 # Packages used:
-  . @react-native-async-storage/async-storage
-  . @react-navigation/bottom-tabs
-  . @react-navigation/material-top-tabs
-  . @react-navigation/native
-  . @react-navigation/native-stack
-  . axios
-  . react-native-heroicons
-  . react-native-safe-area-context
-  . react-native-screens
+  - @react-native-async-storage/async-storage
+  - @react-navigation/bottom-tabs
+  - @react-navigation/material-top-tabs
+  - @react-navigation/native
+  - @react-navigation/native-stack
+  - axios
+  - react-native-heroicons
+  - react-native-safe-area-context
+  - react-native-screens
 
 # How to download this project:
   - git clone https://github.com/AmirRashid1/CricLive
